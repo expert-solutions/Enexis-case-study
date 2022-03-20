@@ -1,0 +1,476 @@
+Peildatum,Netbeheerder,Provincie,Gemeente,CBS_Buurt,CBS_Buurtcode,Aantal_aansluitingen_in_CBS-buurt,Aantal_aansluitingen_met_opwekinstallatie,Opgesteld_vermogen,WijkenEnBuurten,HuishoudensTotaal_28
+202007.0,Enexis,Drenthe,Aa en Hunze,Annen,16800000.0,1491.0,447.0,1866.0,Annen,1490
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Annen,16800009.0,116.0,29.0,243.0,Verspreide huizen Annen,65
+202007.0,Enexis,Drenthe,Aa en Hunze,Eext,16800100.0,559.0,143.0,565.0,Eext,535
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Eext,16800109.0,127.0,24.0,150.0,Verspreide huizen Eext,90
+202007.0,Enexis,Drenthe,Aa en Hunze,Anloo,16800200.0,127.0,29.0,129.0,Anloo,145
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Anloo,16800209.0,61.0,15.0,71.0,Verspreide huizen Anloo,70
+202007.0,Enexis,Drenthe,Aa en Hunze,Gasteren,16800300.0,166.0,61.0,297.0,Gasteren,170
+202007.0,Enexis,Drenthe,Aa en Hunze,Anderen,16800400.0,72.0,16.0,119.0,Anderen,90
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Anderen,16800409.0,43.0,16.0,149.0,Verspreide huizen Anderen,10
+202007.0,Enexis,Drenthe,Aa en Hunze,Schipborg,16800500.0,210.0,81.0,353.0,Schipborg,255
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Schipborg,16800509.0,126.0,21.0,121.0,Verspreide huizen Schipborg,25
+202007.0,Enexis,Drenthe,Aa en Hunze,Eexterveen,16800600.0,176.0,71.0,542.0,Eexterveen,175
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Eexterveen,16800609.0,25.0,11.0,94.0,Verspreide huizen Eexterveen,5
+202007.0,Enexis,Drenthe,Aa en Hunze,Spijkerboor,16800700.0,52.0,17.0,72.0,Spijkerboor,60
+202007.0,Enexis,Drenthe,Aa en Hunze,Nieuw-Annerveen,16800800.0,22.0,10.0,58.0,Nieuw-Annerveen,40
+202007.0,Enexis,Drenthe,Aa en Hunze,Oud-Annerveen,16800900.0,29.0,10.0,64.0,Oud-Annerveen,50
+202007.0,Enexis,Drenthe,Aa en Hunze,Annerveenschekanaal,16801100.0,200.0,46.0,193.0,Annerveenschekanaal,170
+202007.0,Enexis,Drenthe,Aa en Hunze,Eexterveenschekanaal,16801200.0,115.0,28.0,108.0,Eexterveenschekanaal,115
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Eexterzandvoort,16801309.0,52.0,11.0,88.0,Verspreide huizen Eexterzandvoort,10
+202007.0,Enexis,Drenthe,Aa en Hunze,Gasselte,16801400.0,693.0,132.0,611.0,Gasselte,695
+202007.0,Enexis,Drenthe,Aa en Hunze,Kostvlies,16801401.0,50.0,15.0,80.0,Kostvlies,55
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Gasselte,16801409.0,194.0,34.0,306.0,Verspreide huizen Gasselte,140
+202007.0,Enexis,Drenthe,Aa en Hunze,Gasselternijveen,16801500.0,855.0,198.0,739.0,Gasselternijveen,780
+202007.0,Enexis,Drenthe,Aa en Hunze,Gasselternijveenschemond,16801600.0,303.0,70.0,314.0,Gasselternijveenschemond,280
+202007.0,Enexis,Drenthe,Aa en Hunze,Gieten,16801700.0,2350.0,529.0,2143.0,Gieten,2180
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Gieten,16801709.0,247.0,35.0,253.0,Verspreide huizen Gieten,65
+202007.0,Enexis,Drenthe,Aa en Hunze,Gieterveen,16801800.0,247.0,51.0,236.0,Gieterveen,285
+202007.0,Enexis,Drenthe,Aa en Hunze,Bonnerveen,16801801.0,52.0,14.0,118.0,Bonnerveen,40
+202007.0,Enexis,Drenthe,Aa en Hunze,Nieuwediep,16801802.0,102.0,20.0,135.0,Nieuwediep,100
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Gieterveen,16801809.0,180.0,55.0,584.0,Verspreide huizen Gieterveen,95
+202007.0,Enexis,Drenthe,Aa en Hunze,Rolde,16801900.0,1811.0,436.0,1757.0,Rolde,1705
+202007.0,Enexis,Drenthe,Aa en Hunze,Ballo,16801901.0,53.0,13.0,93.0,Ballo,65
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Nooitgedacht,16801908.0,184.0,98.0,506.0,Verspreide huizen Nooitgedacht,125
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Rolde,16801909.0,228.0,43.0,353.0,Verspreide huizen Rolde,55
+202007.0,Enexis,Drenthe,Aa en Hunze,Grolloo,16802000.0,266.0,59.0,290.0,Grolloo,260
+202007.0,Enexis,Drenthe,Aa en Hunze,Schoonloo,16802001.0,85.0,17.0,136.0,Schoonloo,85
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Grolloo,16802009.0,189.0,36.0,358.0,Verspreide huizen Grolloo,105
+202007.0,Enexis,Drenthe,Aa en Hunze,Ekehaar,16802100.0,109.0,28.0,272.0,Ekehaar,105
+202007.0,Enexis,Drenthe,Aa en Hunze,Verspreide huizen Ekehaar,16802109.0,106.0,26.0,216.0,Verspreide huizen Ekehaar,45
+202007.0,Enexis,Drenthe,Assen,Brinkkwartier,1060000.0,280.0,11.0,59.0,Brinkkwartier,205
+202007.0,Enexis,Drenthe,Assen,Overcingel,1060002.0,286.0,18.0,86.0,Overcingel,285
+202007.0,Enexis,Drenthe,Assen,Oranjebuurt,1060003.0,304.0,24.0,72.0,Oranjebuurt,395
+202007.0,Enexis,Drenthe,Assen,Koopmanskwartier,1060005.0,1165.0,60.0,175.0,Koopmanskwartier,920
+202007.0,Enexis,Drenthe,Assen,Cultuureelkwartier,1060006.0,230.0,16.0,71.0,Cultuureelkwartier,230
+202007.0,Enexis,Drenthe,Assen,Oude Gasfabriek,1060007.0,83.0,11.0,33.0,Oude Gasfabriek,105
+202007.0,Enexis,Drenthe,Assen,De Hertenkamp,1060008.0,321.0,48.0,187.0,De Hertenkamp,315
+202007.0,Enexis,Drenthe,Assen,De Esch,1060010.0,364.0,46.0,135.0,De Esch,345
+202007.0,Enexis,Drenthe,Assen,Bomenbuurt,1060011.0,301.0,45.0,186.0,Bomenbuurt,290
+202007.0,Enexis,Drenthe,Assen,Zuiderpark,1060012.0,139.0,36.0,166.0,Zuiderpark,110
+202007.0,Enexis,Drenthe,Assen,De Lariks Oost,1060100.0,742.0,48.0,174.0,De Lariks Oost,795
+202007.0,Enexis,Drenthe,Assen,Landgoed Lariks,1060101.0,490.0,34.0,138.0,Landgoed Lariks,425
+202007.0,Enexis,Drenthe,Assen,De Lariks West,1060102.0,808.0,112.0,386.0,De Lariks West,795
+202007.0,Enexis,Drenthe,Assen,Luchiesland Zuid,1060103.0,517.0,128.0,316.0,Luchiesland Zuid,390
+202007.0,Enexis,Drenthe,Assen,Zuid Molukse Buurt,1060104.0,229.0,194.0,364.0,Zuid Molukse Buurt,235
+202007.0,Enexis,Drenthe,Assen,Luchiesland Noord,1060105.0,418.0,15.0,54.0,Luchiesland Noord,405
+202007.0,Enexis,Drenthe,Assen,Oude Molenbuurt,1060200.0,1163.0,249.0,728.0,Oude Molenbuurt,990
+202007.0,Enexis,Drenthe,Assen,Dichtershof,1060201.0,397.0,14.0,44.0,Dichtershof,380
+202007.0,Enexis,Drenthe,Assen,Veningerland,1060202.0,856.0,190.0,534.0,Veningerland,970
+202007.0,Enexis,Drenthe,Assen,Zwarte Water,1060203.0,658.0,167.0,428.0,Zwarte Water,630
+202007.0,Enexis,Drenthe,Assen,Componistenbuurt West,1060204.0,292.0,95.0,338.0,Componistenbuurt West,280
+202007.0,Enexis,Drenthe,Assen,Componistenbuurt Oost,1060205.0,1012.0,189.0,502.0,Componistenbuurt Oost,1030
+202007.0,Enexis,Drenthe,Assen,Vreebergen,1060301.0,69.0,35.0,147.0,Vreebergen,60
+202007.0,Enexis,Drenthe,Assen,Houtlaan,1060302.0,139.0,74.0,453.0,Houtlaan,130
+202007.0,Enexis,Drenthe,Assen,Amelterhout,1060303.0,125.0,36.0,132.0,Amelterhout,125
+202007.0,Enexis,Drenthe,Assen,Schildersbuurt,1060304.0,619.0,153.0,351.0,Schildersbuurt,555
+202007.0,Enexis,Drenthe,Assen,Vredeveld Noord,1060305.0,1030.0,212.0,595.0,Vredeveld Noord,990
+202007.0,Enexis,Drenthe,Assen,Sluisdennen,1060306.0,156.0,42.0,211.0,Sluisdennen,140
+202007.0,Enexis,Drenthe,Assen,Vredeveld Zuid,1060307.0,1207.0,283.0,657.0,Vredeveld Zuid,1175
+202007.0,Enexis,Drenthe,Assen,De Dorpen,1060308.0,662.0,314.0,689.0,De Dorpen,625
+202007.0,Enexis,Drenthe,Assen,Park Diepstroeten,1060310.0,220.0,146.0,499.0,Park Diepstroeten,245
+202007.0,Enexis,Drenthe,Assen,Pittelo Zuid,1060400.0,159.0,47.0,164.0,Pittelo Zuid,160
+202007.0,Enexis,Drenthe,Assen,Pittelo Midden,1060401.0,722.0,122.0,338.0,Pittelo Midden,785
+202007.0,Enexis,Drenthe,Assen,Pittelo Noord,1060402.0,663.0,122.0,351.0,Pittelo Noord,650
+202007.0,Enexis,Drenthe,Assen,Baggelhuizen Zuid,1060502.0,485.0,190.0,638.0,Baggelhuizen Zuid,485
+202007.0,Enexis,Drenthe,Assen,Baggelhuizen Midden,1060503.0,778.0,180.0,510.0,Baggelhuizen Midden,785
+202007.0,Enexis,Drenthe,Assen,Baggelhuizen Noord,1060504.0,315.0,286.0,625.0,Baggelhuizen Noord,325
+202007.0,Enexis,Drenthe,Assen,Westerpark,1060508.0,288.0,124.0,450.0,Westerpark,230
+202007.0,Enexis,Drenthe,Assen,De Venen/De Wallen,1060600.0,454.0,85.0,288.0,De Venen/De Wallen,440
+202007.0,Enexis,Drenthe,Assen,De Velden/De Stukken,1060601.0,749.0,132.0,408.0,De Velden/De Stukken,750
+202007.0,Enexis,Drenthe,Assen,De Landen/De Akkers,1060602.0,1088.0,168.0,535.0,De Landen/De Akkers,1065
+202007.0,Enexis,Drenthe,Assen,De Kampen/De Essen,1060603.0,690.0,175.0,565.0,De Kampen/De Essen,685
+202007.0,Enexis,Drenthe,Assen,Peelerpark,1060604.0,82.0,13.0,105.0,Peelerpark,15
+202007.0,Enexis,Drenthe,Assen,Messchenveld,1060700.0,81.0,21.0,201.0,Messchenveld,40
+202007.0,Enexis,Drenthe,Assen,De Messchen,1060701.0,319.0,98.0,416.0,De Messchen,350
+202007.0,Enexis,Drenthe,Assen,De Hamels,1060702.0,214.0,91.0,382.0,De Hamels,220
+202007.0,Enexis,Drenthe,Assen,De Kleuven,1060703.0,516.0,81.0,248.0,De Kleuven,470
+202007.0,Enexis,Drenthe,Assen,De Dreven,1060704.0,435.0,85.0,282.0,De Dreven,465
+202007.0,Enexis,Drenthe,Assen,De BreeÃn,1060705.0,357.0,133.0,504.0,De Breeën,365
+202007.0,Enexis,Drenthe,Assen,De Hoven,1060706.0,366.0,139.0,510.0,De Hoven,355
+202007.0,Enexis,Drenthe,Assen,De Heugten,1060707.0,584.0,74.0,245.0,De Heugten,575
+202007.0,Enexis,Drenthe,Assen,De Beemden,1060708.0,380.0,82.0,367.0,De Beemden,350
+202007.0,Enexis,Drenthe,Assen,De Hullen,1060709.0,394.0,106.0,389.0,De Hullen,395
+202007.0,Enexis,Drenthe,Assen,De Stoepen,1060710.0,835.0,217.0,766.0,De Stoepen,820
+202007.0,Enexis,Drenthe,Assen,De Goorns,1060711.0,281.0,42.0,147.0,De Goorns,325
+202007.0,Enexis,Drenthe,Assen,Bedrijventerrein Marsdijk West,1060712.0,153.0,23.0,141.0,Bedrijventerrein Marsdijk West,70
+202007.0,Enexis,Drenthe,Assen,Bedrijventerrein Oost,1060714.0,93.0,12.0,160.0,Bedrijventerrein Oost,20
+202007.0,Enexis,Drenthe,Assen,Bedrijventerrein Marsdijk Oost,1060715.0,201.0,29.0,359.0,Bedrijventerrein Marsdijk Oost,75
+202007.0,Enexis,Drenthe,Assen,Kloosterveste,1060800.0,400.0,136.0,433.0,Kloosterveste,375
+202007.0,Enexis,Drenthe,Assen,Kloostertuinen,1060801.0,288.0,49.0,172.0,Kloostertuinen,325
+202007.0,Enexis,Drenthe,Assen,Kloosterhaven,1060802.0,93.0,32.0,126.0,Kloosterhaven,130
+202007.0,Enexis,Drenthe,Assen,Kloosterlanen,1060803.0,299.0,107.0,429.0,Kloosterlanen,275
+202007.0,Enexis,Drenthe,Assen,Kloosterhoven,1060804.0,517.0,69.0,245.0,Kloosterhoven,490
+202007.0,Enexis,Drenthe,Assen,Kloosterstede,1060805.0,379.0,62.0,238.0,Kloosterstede,375
+202007.0,Enexis,Drenthe,Assen,Kloostergaarde,1060806.0,204.0,37.0,139.0,Kloostergaarde,160
+202007.0,Enexis,Drenthe,Assen,Kloosterhage,1060807.0,293.0,71.0,269.0,Kloosterhage,290
+202007.0,Enexis,Drenthe,Assen,Kloosterkade,1060808.0,163.0,53.0,205.0,Kloosterkade,175
+202007.0,Enexis,Drenthe,Assen,Sterrenbeeldenbuurt,1060809.0,205.0,96.0,356.0,Sterrenbeeldenbuurt,215
+202007.0,Enexis,Drenthe,Assen,Planetenbuurt,1060810.0,330.0,86.0,308.0,Planetenbuurt,350
+202007.0,Enexis,Drenthe,Assen,Kloosterhout,1060815.0,336.0,132.0,621.0,Kloosterhout,330
+202007.0,Enexis,Drenthe,Assen,Kloosterbos,1060816.0,445.0,107.0,420.0,Kloosterbos,400
+202007.0,Enexis,Drenthe,Assen,Uitbreidingsgebied Kloosterveen,1060817.0,72.0,19.0,102.0,Uitbreidingsgebied Kloosterveen,25
+202007.0,Enexis,Drenthe,Assen,Loon,1069900.0,108.0,32.0,205.0,Loon,110
+202007.0,Enexis,Drenthe,Assen,Witten,1069912.0,41.0,13.0,100.0,Witten,25
+202007.0,Enexis,Drenthe,Assen,Verspreide huizen Schieven,1069916.0,51.0,16.0,78.0,Verspreide huizen Schieven,15
+202007.0,Enexis,Drenthe,Borger-Odoorn,Borger,16810000.0,2295.0,471.0,1917.0,Borger,2180
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Westdorp,16810008.0,45.0,11.0,128.0,Verspreide huizen Westdorp,15
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Borger,16810009.0,105.0,19.0,339.0,Verspreide huizen Borger,45
+202007.0,Enexis,Drenthe,Borger-Odoorn,Buinen,16810100.0,268.0,72.0,459.0,Buinen,295
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Buinen,16810109.0,84.0,18.0,113.0,Verspreide huizen Buinen,30
+202007.0,Enexis,Drenthe,Borger-Odoorn,Bronneger,16810200.0,43.0,11.0,59.0,Bronneger,45
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Bronneger,16810209.0,40.0,10.0,78.0,Verspreide huizen Bronneger,1
+202007.0,Enexis,Drenthe,Borger-Odoorn,Drouwen,16810300.0,172.0,56.0,343.0,Drouwen,185
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Drouwen,16810309.0,235.0,23.0,126.0,Verspreide huizen Drouwen,45
+202007.0,Enexis,Drenthe,Borger-Odoorn,Drouwenerveen,16810500.0,76.0,13.0,91.0,Drouwenerveen,95
+202007.0,Enexis,Drenthe,Borger-Odoorn,Drouwenermond,16810600.0,177.0,34.0,222.0,Drouwenermond,210
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Drouwenermond,16810609.0,90.0,22.0,125.0,Verspreide huizen Drouwenermond,10
+202007.0,Enexis,Drenthe,Borger-Odoorn,Nieuw-Buinen,16810700.0,2021.0,404.0,2079.0,Nieuw-Buinen,2060
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Nieuw-Buinen,16810709.0,126.0,54.0,260.0,Verspreide huizen Nieuw-Buinen,30
+202007.0,Enexis,Drenthe,Borger-Odoorn,Buinerveen,16810800.0,227.0,61.0,385.0,Buinerveen,165
+202007.0,Enexis,Drenthe,Borger-Odoorn,Ees,16810900.0,124.0,32.0,167.0,Ees,140
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Eeserveen,16810907.0,95.0,17.0,292.0,Verspreide huizen Eeserveen,60
+202007.0,Enexis,Drenthe,Borger-Odoorn,Odoorn,16811000.0,823.0,208.0,817.0,Odoorn,805
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Odoorn,16811009.0,50.0,11.0,61.0,Verspreide huizen Odoorn,10
+202007.0,Enexis,Drenthe,Borger-Odoorn,Exloo,16811100.0,672.0,196.0,880.0,Exloo,705
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Exloo,16811109.0,395.0,29.0,140.0,Verspreide huizen Exloo,60
+202007.0,Enexis,Drenthe,Borger-Odoorn,Valthe,16811200.0,445.0,147.0,556.0,Valthe,455
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Valthe,16811209.0,121.0,36.0,206.0,Verspreide huizen Valthe,65
+202007.0,Enexis,Drenthe,Borger-Odoorn,Klijndijk,16811300.0,297.0,86.0,353.0,Klijndijk,310
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Klijndijk,16811309.0,67.0,16.0,75.0,Verspreide huizen Klijndijk,30
+202007.0,Enexis,Drenthe,Borger-Odoorn,Odoornerveen,16811400.0,139.0,39.0,520.0,Odoornerveen,130
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Odoornerveen,16811409.0,59.0,17.0,143.0,Verspreide huizen Odoornerveen,20
+202007.0,Enexis,Drenthe,Borger-Odoorn,Tweede ExloÃrmond,16811500.0,1037.0,311.0,1585.0,Tweede Exloërmond,985
+202007.0,Enexis,Drenthe,Borger-Odoorn,Eerste ExloÃrmond,16811501.0,163.0,40.0,438.0,Eerste Exloërmond,145
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Tweede ExloÃrmond,16811509.0,50.0,15.0,85.0,Verspreide huizen Tweede Exloërmond,15
+202007.0,Enexis,Drenthe,Borger-Odoorn,Valthermond,16811600.0,1480.0,469.0,2245.0,Valthermond,1440
+202007.0,Enexis,Drenthe,Borger-Odoorn,Zandberg,16811601.0,36.0,14.0,91.0,Zandberg,25
+202007.0,Enexis,Drenthe,Borger-Odoorn,Verspreide huizen Valthermond,16811609.0,141.0,22.0,211.0,Verspreide huizen Valthermond,30
+202007.0,Enexis,Drenthe,Coevorden,Coevorden-Centrum,1091000.0,1508.0,189.0,587.0,Coevorden-Centrum,1340
+202007.0,Enexis,Drenthe,Coevorden,Lootuinen,1091001.0,557.0,300.0,817.0,Lootuinen,580
+202007.0,Enexis,Drenthe,Coevorden,Poppenhare,1091002.0,583.0,148.0,364.0,Poppenhare,580
+202007.0,Enexis,Drenthe,Coevorden,Binnenvree Buitenvree Pikveld,1091003.0,1341.0,457.0,1308.0,Binnenvree Buitenvree Pikveld,1325
+202007.0,Enexis,Drenthe,Coevorden,De Heege,1091004.0,849.0,315.0,973.0,De Heege,880
+202007.0,Enexis,Drenthe,Coevorden,Ballast,1091007.0,640.0,172.0,613.0,Ballast,685
+202007.0,Enexis,Drenthe,Coevorden,De Loo,1091008.0,599.0,275.0,757.0,De Loo,540
+202007.0,Enexis,Drenthe,Coevorden,Hare,1091011.0,131.0,17.0,153.0,Hare,45
+202007.0,Enexis,Drenthe,Coevorden,Leeuwerikenveld,1091012.0,102.0,13.0,119.0,Leeuwerikenveld,25
+202007.0,Enexis,Drenthe,Coevorden,Klinkenvlier,1091014.0,85.0,24.0,161.0,Klinkenvlier,60
+202007.0,Enexis,Drenthe,Coevorden,Ossehaar,1091015.0,312.0,70.0,312.0,Ossehaar,295
+202007.0,Enexis,Drenthe,Coevorden,Steenwijksmoer,1091116.0,206.0,58.0,220.0,Steenwijksmoer,250
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Steenwijksmoer,1091117.0,278.0,42.0,282.0,Verspreide huizen Steenwijksmoer,120
+202007.0,Enexis,Drenthe,Coevorden,Nieuwe Krim,1091218.0,55.0,12.0,57.0,Nieuwe Krim,60
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Nieuwe Krim,1091219.0,39.0,10.0,84.0,Verspreide huizen Nieuwe Krim,1
+202007.0,Enexis,Drenthe,Coevorden,Dalen,1092022.0,1465.0,456.0,1919.0,Dalen,1465
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Dalen,1092023.0,244.0,45.0,438.0,Verspreide huizen Dalen,150
+202007.0,Enexis,Drenthe,Coevorden,Wachtum,1092024.0,111.0,34.0,229.0,Wachtum,110
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Wachtum,1092025.0,62.0,16.0,133.0,Verspreide huizen Wachtum,35
+202007.0,Enexis,Drenthe,Coevorden,Dalerpeel,1092026.0,229.0,82.0,246.0,Dalerpeel,245
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Dalerpeel,1092027.0,205.0,34.0,251.0,Verspreide huizen Dalerpeel,95
+202007.0,Enexis,Drenthe,Coevorden,Dalerveen,1092028.0,95.0,17.0,79.0,Dalerveen,120
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Dalerveen,1092029.0,61.0,14.0,67.0,Verspreide huizen Dalerveen,20
+202007.0,Enexis,Drenthe,Coevorden,Stieltjeskanaal,1092030.0,70.0,14.0,95.0,Stieltjeskanaal,65
+202007.0,Enexis,Drenthe,Coevorden,Oosterhesselen,1093032.0,798.0,234.0,916.0,Oosterhesselen,800
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Oosterhesselen,1093033.0,106.0,12.0,107.0,Verspreide huizen Oosterhesselen,50
+202007.0,Enexis,Drenthe,Coevorden,Gees,1093034.0,248.0,59.0,344.0,Gees,225
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Gees,1093035.0,103.0,11.0,60.0,Verspreide huizen Gees,30
+202007.0,Enexis,Drenthe,Coevorden,Zwinderen,1093036.0,58.0,11.0,45.0,Zwinderen,95
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Zwinderen,1093037.0,135.0,29.0,480.0,Verspreide huizen Zwinderen,50
+202007.0,Enexis,Drenthe,Coevorden,Geesbrug,1093038.0,235.0,82.0,300.0,Geesbrug,290
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Geesbrug,1093039.0,454.0,57.0,491.0,Verspreide huizen Geesbrug,225
+202007.0,Enexis,Drenthe,Coevorden,Sleen,1094040.0,1007.0,295.0,1068.0,Sleen,960
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Sleen,1094042.0,71.0,10.0,72.0,Verspreide huizen Sleen,20
+202007.0,Enexis,Drenthe,Coevorden,Noord-Sleen,1094043.0,127.0,26.0,197.0,Noord-Sleen,195
+202007.0,Enexis,Drenthe,Coevorden,t Haantje,1094044.0,72.0,21.0,118.0,'t Haantje,90
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen 't Haantje,1094045.0,45.0,12.0,69.0,Verspreide huizen 't Haantje,10
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Noord-Sleen,1094046.0,128.0,25.0,283.0,Verspreide huizen Noord-Sleen,30
+202007.0,Enexis,Drenthe,Coevorden,Schoonoord,1094047.0,899.0,311.0,1039.0,Schoonoord,910
+202007.0,Enexis,Drenthe,Coevorden,De Kiel,1094048.0,138.0,27.0,104.0,De Kiel,120
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen De Kiel,1094049.0,74.0,17.0,95.0,Verspreide huizen De Kiel,45
+202007.0,Enexis,Drenthe,Coevorden,Erm,1094053.0,123.0,17.0,99.0,Erm,160
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Holsloot,1094056.0,65.0,10.0,112.0,Verspreide huizen Holsloot,35
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Elm,1094057.0,263.0,21.0,180.0,Verspreide huizen Elm,210
+202007.0,Enexis,Drenthe,Coevorden,Zweeloo,1095058.0,124.0,28.0,139.0,Zweeloo,145
+202007.0,Enexis,Drenthe,Coevorden,Aalden,1095059.0,767.0,209.0,774.0,Aalden,750
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Zweeloo,1095060.0,86.0,12.0,84.0,Verspreide huizen Zweeloo,15
+202007.0,Enexis,Drenthe,Coevorden,Meppen,1095061.0,106.0,28.0,197.0,Meppen,135
+202007.0,Enexis,Drenthe,Coevorden,Wezup,1095063.0,45.0,12.0,75.0,Wezup,70
+202007.0,Enexis,Drenthe,Coevorden,Wezuperbrug,1095064.0,40.0,16.0,117.0,Wezuperbrug,75
+202007.0,Enexis,Drenthe,Coevorden,Benneveld,1095065.0,57.0,12.0,87.0,Benneveld,60
+202007.0,Enexis,Drenthe,Coevorden,Verspreide huizen Wezuperbrug,1095067.0,105.0,18.0,236.0,Verspreide huizen Wezuperbrug,20
+202007.0,Enexis,Drenthe,De Wolden,Zuidwolde kern,16900000.0,2474.0,967.0,3017.0,Zuidwolde kern,2305
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Zuidwolde,16900009.0,433.0,74.0,516.0,Verspreide huizen Zuidwolde,365
+202007.0,Enexis,Drenthe,De Wolden,Alteveer,16900100.0,163.0,60.0,245.0,Alteveer,215
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Alteveer,16900109.0,196.0,39.0,337.0,Verspreide huizen Alteveer,100
+202007.0,Enexis,Drenthe,De Wolden,Kerkenveld,16900200.0,158.0,48.0,144.0,Kerkenveld,195
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Kerkenveld,16900209.0,243.0,61.0,531.0,Verspreide huizen Kerkenveld,120
+202007.0,Enexis,Drenthe,De Wolden,Drogteropslagen,16900300.0,79.0,24.0,102.0,Drogteropslagen,100
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Drogteropslagen,16900309.0,142.0,27.0,184.0,Verspreide huizen Drogteropslagen,80
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Linde,16900409.0,352.0,76.0,551.0,Verspreide huizen Linde,185
+202007.0,Enexis,Drenthe,De Wolden,Fort,16900500.0,48.0,14.0,102.0,Fort,90
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Fort,16900509.0,257.0,44.0,283.0,Verspreide huizen Fort,165
+202007.0,Enexis,Drenthe,De Wolden,Veeningen,16900600.0,109.0,34.0,104.0,Veeningen,130
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Veeningen,16900609.0,274.0,47.0,326.0,Verspreide huizen Veeningen,130
+202007.0,Enexis,Drenthe,De Wolden,Echten,16900700.0,77.0,24.0,102.0,Echten,75
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Echten,16900709.0,84.0,19.0,211.0,Verspreide huizen Echten,65
+202007.0,Enexis,Drenthe,De Wolden,Ruinen,16900800.0,1205.0,490.0,1664.0,Ruinen,1205
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Ruinen,16900809.0,557.0,111.0,791.0,Verspreide huizen Ruinen,280
+202007.0,Enexis,Drenthe,De Wolden,Ansen,16901000.0,98.0,28.0,149.0,Ansen,110
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Ansen,16901009.0,78.0,16.0,134.0,Verspreide huizen Ansen,20
+202007.0,Enexis,Drenthe,De Wolden,Ruinerwold,16901100.0,1011.0,378.0,1345.0,Ruinerwold,1080
+202007.0,Enexis,Drenthe,De Wolden,Oosteinde,16901102.0,65.0,21.0,78.0,Oosteinde,110
+202007.0,Enexis,Drenthe,De Wolden,Oosteinde-Buiten,16901105.0,148.0,32.0,327.0,Oosteinde-Buiten,195
+202007.0,Enexis,Drenthe,De Wolden,Ruinerwold-Buiten,16901109.0,415.0,83.0,663.0,Ruinerwold-Buiten,105
+202007.0,Enexis,Drenthe,De Wolden,Koekange,16901200.0,452.0,155.0,444.0,Koekange,475
+202007.0,Enexis,Drenthe,De Wolden,Koekange Zuid,16901202.0,58.0,14.0,111.0,Koekange Zuid,60
+202007.0,Enexis,Drenthe,De Wolden,Koekangerveld,16901203.0,36.0,15.0,58.0,Koekangerveld,65
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen Koekange,16901209.0,648.0,119.0,871.0,Verspreide huizen Koekange,340
+202007.0,Enexis,Drenthe,De Wolden,De Wijk,16901300.0,1113.0,457.0,1479.0,De Wijk,1190
+202007.0,Enexis,Drenthe,De Wolden,Verspreide huizen De Wijk,16901309.0,276.0,47.0,230.0,Verspreide huizen De Wijk,110
+202007.0,Enexis,Drenthe,Emmen,3e Kruisdiep,1140100.0,193.0,45.0,177.0,Derde Kruisdiep,230
+202007.0,Enexis,Drenthe,Emmen,1e Kruisdiep,1140101.0,872.0,116.0,597.0,Eerste Kruisdiep,845
+202007.0,Enexis,Drenthe,Emmen,Tramwijk,1140102.0,103.0,27.0,141.0,Tramwijk,90
+202007.0,Enexis,Drenthe,Emmen,Achterdiep,1140103.0,109.0,24.0,173.0,Achterdiep,95
+202007.0,Enexis,Drenthe,Emmen,Weerdingerkanaal,1140104.0,103.0,23.0,223.0,Weerdingerkanaal,85
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Nieuw-Weerdinge,1140109.0,99.0,23.0,195.0,Verspreide huizen Nieuw-Weerdinge,45
+202007.0,Enexis,Drenthe,Emmen,Roswinkel-Centrum,1140200.0,106.0,12.0,71.0,Roswinkel-Centrum,150
+202007.0,Enexis,Drenthe,Emmen,Oude Schuttingskanaal,1140206.0,37.0,11.0,61.0,Oude Schuttingskanaal,40
+202007.0,Enexis,Drenthe,Emmen,Roswinkelerstraat,1140208.0,93.0,20.0,128.0,Roswinkelerstraat,80
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Roswinkel,1140209.0,161.0,33.0,191.0,Verspreide huizen Roswinkel,75
+202007.0,Enexis,Drenthe,Emmen,Emmer-Compascuum Centrum,1140300.0,2162.0,262.0,1077.0,Emmer-Compascuum-Centrum,2180
+202007.0,Enexis,Drenthe,Emmen,Emmer-Erfscheidenveen,1140301.0,763.0,182.0,875.0,Emmer-Erfscheidenveen,730
+202007.0,Enexis,Drenthe,Emmen,Foxel,1140302.0,167.0,40.0,242.0,Foxel,165
+202007.0,Enexis,Drenthe,Emmen,Oosterdiep,1140303.0,209.0,57.0,321.0,Oosterdiep,180
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Emmer-Compascuum,1140309.0,291.0,45.0,363.0,Verspreide huizen Emmer-Compascuum,75
+202007.0,Enexis,Drenthe,Emmen,Barger-Compascuum-Centrum,1140400.0,520.0,55.0,209.0,Barger-Compascuum-Centrum,580
+202007.0,Enexis,Drenthe,Emmen,Scholtenskanaal,1140401.0,74.0,13.0,59.0,Scholtenskanaal,75
+202007.0,Enexis,Drenthe,Emmen,Verlengde-Oosterdiep,1140402.0,143.0,31.0,269.0,Verlengde Oosterdiep,95
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Barger-Compascuum,1140409.0,110.0,26.0,160.0,Verspreide huizen Barger-Compascuum,15
+202007.0,Enexis,Drenthe,Emmen,Nieuw-Dordrecht,1140500.0,539.0,58.0,283.0,Nieuw-Dordrecht-Centrum,570
+202007.0,Enexis,Drenthe,Emmen,Oranjedorp,1140502.0,202.0,43.0,352.0,Oranjedorp,165
+202007.0,Enexis,Drenthe,Emmen,Vastenow,1140503.0,108.0,19.0,121.0,Vastenow,75
+202007.0,Enexis,Drenthe,Emmen,Herenstreek,1140504.0,53.0,13.0,67.0,Herenstreek,35
+202007.0,Enexis,Drenthe,Emmen,Nieuw-Amsterdam-Centrum,1140600.0,1913.0,341.0,1815.0,Nieuw-Amsterdam-Centrum,1835
+202007.0,Enexis,Drenthe,Emmen,Langs de Vaart,1140608.0,97.0,30.0,217.0,Langs de Vaart,90
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Nieuw-Amsterdam,1140609.0,101.0,17.0,214.0,Verspreide huizen Nieuw-Amsterdam,60
+202007.0,Enexis,Drenthe,Emmen,Erica-Centrum,1140700.0,1626.0,347.0,1651.0,Erica-Centrum,1645
+202007.0,Enexis,Drenthe,Emmen,Amsterdamscheveld,1140701.0,46.0,13.0,62.0,Amsterdamscheveld,75
+202007.0,Enexis,Drenthe,Emmen,Beekweg,1140702.0,100.0,18.0,166.0,Beekweg,85
+202007.0,Enexis,Drenthe,Emmen,Verlengde Vaart,1140707.0,40.0,14.0,110.0,Verlengde Vaart,25
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Erica,1140709.0,319.0,102.0,927.0,Verspreide huizen Erica,95
+202007.0,Enexis,Drenthe,Emmen,Klazienaveen-Noord,1140800.0,2095.0,424.0,1908.0,Klazienaveen-Noord,2055
+202007.0,Enexis,Drenthe,Emmen,Klazienaveen-Zuid,1140801.0,2902.0,439.0,1956.0,Klazienaveen-Zuid,2730
+202007.0,Enexis,Drenthe,Emmen,Barger-Oosterveen,1140802.0,55.0,19.0,94.0,Barger-Oosterveen,130
+202007.0,Enexis,Drenthe,Emmen,Kloostermanswijk,1140803.0,113.0,23.0,127.0,Kloostermanswijk,95
+202007.0,Enexis,Drenthe,Emmen,Dordse Dijk,1140804.0,55.0,17.0,79.0,Dordsedijk,35
+202007.0,Enexis,Drenthe,Emmen,Derksweg,1140806.0,55.0,11.0,51.0,Derksweg,50
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Klazienaveen,1140809.0,226.0,56.0,467.0,Verspreide huizen Klazienaveen,75
+202007.0,Enexis,Drenthe,Emmen,Zwartemeer-Centrum,1140900.0,1133.0,145.0,710.0,Zwartemeer-Centrum,1150
+202007.0,Enexis,Drenthe,Emmen,Kamerlingswijk,1140901.0,82.0,18.0,86.0,Kamerlingswijk,75
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Zwartemeer,1140909.0,94.0,10.0,99.0,Verspreide huizen Zwartemeer,20
+202007.0,Enexis,Drenthe,Emmen,Schoonebeek,1141000.0,1657.0,663.0,2063.0,Schoonebeek,1655
+202007.0,Enexis,Drenthe,Emmen,Oosterse Bos en Middendorp,1141001.0,101.0,17.0,110.0,Oosterse Bos en Middendorp,75
+202007.0,Enexis,Drenthe,Emmen,Westerse Bos,1141002.0,77.0,21.0,187.0,Westerse Bos,50
+202007.0,Enexis,Drenthe,Emmen,Zandpol,1141003.0,198.0,89.0,288.0,Zandpol,200
+202007.0,Enexis,Drenthe,Emmen,Industrieterrein De Vierslagen,1141004.0,83.0,12.0,96.0,Industrieterrein De Vierslagen,25
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Schoonebeek,1141009.0,141.0,21.0,116.0,Verspreide huizen Schoonebeek,75
+202007.0,Enexis,Drenthe,Emmen,Veenoord,1141300.0,987.0,272.0,866.0,Veenoord,995
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Veenoord,1141309.0,38.0,11.0,122.0,Verspreide huizen Veenoord,5
+202007.0,Enexis,Drenthe,Emmen,Nieuw-Schoonebeek,1142100.0,257.0,104.0,370.0,Nieuw-Schoonebeek,325
+202007.0,Enexis,Drenthe,Emmen,Westelijk Nieuw-Schoonebeek,1142101.0,116.0,20.0,135.0,Westelijk Nieuw-Schoonebeek,80
+202007.0,Enexis,Drenthe,Emmen,Oostelijk Nieuw-Schoonebeek,1142102.0,132.0,27.0,227.0,Oostelijk Nieuw-Schoonebeek,105
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Nieuw-Schoonebeek,1142109.0,55.0,12.0,52.0,Verspreide huizen Nieuw-Schoonebeek,15
+202007.0,Enexis,Drenthe,Emmen,Weiteveen,1143200.0,528.0,187.0,656.0,Weiteveen,575
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Weiteveen,1143209.0,142.0,30.0,133.0,Verspreide huizen Weiteveen,15
+202007.0,Enexis,Drenthe,Emmen,Emmen-Centrum,1144000.0,2831.0,153.0,555.0,Emmen-Centrum,2470
+202007.0,Enexis,Drenthe,Emmen,Emmen-Omgeving Oude Roswinkelerweg,1144100.0,643.0,130.0,503.0,Emmen-omgeving Oude Roswinkelerweg,665
+202007.0,Enexis,Drenthe,Emmen,Emmen over 't spoor,1144101.0,704.0,90.0,499.0,Emmen over 't spoor,670
+202007.0,Enexis,Drenthe,Emmen,Emmermeer,1144200.0,3185.0,299.0,1435.0,Emmermeer,3060
+202007.0,Enexis,Drenthe,Emmen,Angelslo,1144300.0,3742.0,378.0,1485.0,Angelslo,3865
+202007.0,Enexis,Drenthe,Emmen,Emmerhout,1144400.0,3728.0,673.0,2686.0,Emmerhout,3660
+202007.0,Enexis,Drenthe,Emmen,Emmerschans,1144500.0,446.0,75.0,332.0,Emmerschans,475
+202007.0,Enexis,Drenthe,Emmen,Bargeres,1144600.0,4440.0,955.0,3040.0,Bargeres,4365
+202007.0,Enexis,Drenthe,Emmen,Rietlanden,1144700.0,3997.0,1172.0,4145.0,Rietlanden,3925
+202007.0,Enexis,Drenthe,Emmen,Parc Sandur,1144800.0,838.0,291.0,1236.0,Parc Sandur,850
+202007.0,Enexis,Drenthe,Emmen,Delftlanden,1144900.0,361.0,158.0,755.0,Delftlanden,285
+202007.0,Enexis,Drenthe,Emmen,Barger-Oosterveld,1145000.0,1276.0,283.0,1616.0,Barger-Oosterveld,1270
+202007.0,Enexis,Drenthe,Emmen,Weerdinge,1145100.0,207.0,71.0,370.0,Weerdinge,230
+202007.0,Enexis,Drenthe,Emmen,Westenesch,1145101.0,56.0,14.0,143.0,Westenesch,65
+202007.0,Enexis,Drenthe,Emmen,Verspreide huizen Emmen,1145109.0,623.0,132.0,965.0,Verspreide huizen Emmen,355
+202007.0,Enexis,Drenthe,Emmen,Noordbarge,1145200.0,449.0,112.0,617.0,Noordbarge,410
+202007.0,Enexis,Drenthe,Emmen,Zuidbarge,1145201.0,160.0,41.0,292.0,Zuidbarge,150
+202007.0,Enexis,Drenthe,Emmen,Industrieterrein Bargermeer,1145300.0,636.0,56.0,718.0,Industrieterrein Bargermeer,20
+202007.0,Enexis,Drenthe,Hoogeveen,Erflanden,1185109.0,1021.0,301.0,1092.0,Erflanden,1150
+202007.0,Enexis,Drenthe,Hoogeveen,Fluitenberg kern,1185200.0,163.0,62.0,300.0,Fluitenberg kern,145
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Fluitenberg,1185201.0,85.0,14.0,56.0,Verspreide huizen Fluitenberg,35
+202007.0,Enexis,Drenthe,Hoogeveen,Nieuwlande kern,1185600.0,432.0,131.0,518.0,Nieuwlande kern,525
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Nieuwlande,1185601.0,149.0,38.0,181.0,Verspreide huizen Nieuwlande,25
+202007.0,Enexis,Drenthe,Hoogeveen,Nieuweroord kern,1185700.0,157.0,35.0,135.0,Nieuweroord kern,200
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Nieuweroord,1185701.0,123.0,30.0,286.0,Verspreide huizen Nieuweroord,155
+202007.0,Enexis,Drenthe,Hoogeveen,Tiendeveen kern,1185800.0,133.0,45.0,185.0,Tiendeveen kern,150
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Tiendeveen,1185801.0,206.0,56.0,415.0,Verspreide huizen Tiendeveen,105
+202007.0,Enexis,Drenthe,Hoogeveen,Stuifzand kern,1185900.0,122.0,38.0,132.0,Stuifzand kern,125
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Stuifzand,1185901.0,143.0,39.0,225.0,Verspreide huizen Stuifzand,120
+202007.0,Enexis,Drenthe,Hoogeveen,Pesse kern,1186000.0,453.0,197.0,676.0,Pesse kern,475
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Pesse-Oost,1186001.0,297.0,29.0,192.0,Verspreide huizen Pesse-Oost,185
+202007.0,Enexis,Drenthe,Hoogeveen,Verspreide huizen Pesse-Zuid,1186003.0,104.0,25.0,105.0,Verspreide huizen Pesse-Zuid,95
+202007.0,Enexis,Drenthe,Meppel,Historisch Centrum,1190000.0,1465.0,81.0,185.0,Historisch Centrum,1325
+202007.0,Enexis,Drenthe,Meppel,Indische buurt,1190001.0,719.0,64.0,191.0,Indische buurt,635
+202007.0,Enexis,Drenthe,Meppel,Koninginnebuurt,1190002.0,1362.0,115.0,428.0,Koninginnebuurt,1340
+202007.0,Enexis,Drenthe,Meppel,Galgenkamp,1190100.0,184.0,11.0,31.0,Galgenkamp,195
+202007.0,Enexis,Drenthe,Meppel,Heinsiusbuurt,1190200.0,701.0,26.0,70.0,Heinsiusbuurt,665
+202007.0,Enexis,Drenthe,Meppel,Staatsliedenbuurt,1190201.0,814.0,54.0,247.0,Staatsliedenbuurt,740
+202007.0,Enexis,Drenthe,Meppel,Zeeheldenbuurt,1190202.0,748.0,23.0,93.0,Zeeheldenbuurt,725
+202007.0,Enexis,Drenthe,Meppel,Hesselingen,1190300.0,763.0,95.0,305.0,Hesselingen,805
+202007.0,Enexis,Drenthe,Meppel,Koeberg,1190301.0,954.0,90.0,332.0,Koeberg,925
+202007.0,Enexis,Drenthe,Meppel,Reestlanden,1190302.0,155.0,23.0,137.0,Reestlanden,185
+202007.0,Enexis,Drenthe,Meppel,Schildersbuurt,1190303.0,996.0,165.0,609.0,Schildersbuurt,1005
+202007.0,Enexis,Drenthe,Meppel,Plantenbuurt,1190400.0,665.0,260.0,1088.0,Plantenbuurt,630
+202007.0,Enexis,Drenthe,Meppel,Scheepsbuurt,1190401.0,485.0,210.0,743.0,Scheepsbuurt,510
+202007.0,Enexis,Drenthe,Meppel,Bloemenbuurt,1190500.0,322.0,67.0,223.0,Bloemenbuurt,365
+202007.0,Enexis,Drenthe,Meppel,Onderwijs-. sportpark,1190501.0,27.0,16.0,103.0,"Onderwijs-, sportpark",1
+202007.0,Enexis,Drenthe,Meppel,Veldenbuurt,1190600.0,892.0,270.0,994.0,Veldenbuurt,940
+202007.0,Enexis,Drenthe,Meppel,Vlinderbuurt,1190601.0,588.0,170.0,643.0,Vlinderbuurt,575
+202007.0,Enexis,Drenthe,Meppel,Vogelbuurt,1190602.0,356.0,83.0,352.0,Vogelbuurt,380
+202007.0,Enexis,Drenthe,Meppel,Verzetsbuurt,1190603.0,1124.0,216.0,759.0,Verzetsbuurt,1065
+202007.0,Enexis,Drenthe,Meppel,Drukkersbuurt,1190700.0,240.0,91.0,248.0,Drukkersbuurt,225
+202007.0,Enexis,Drenthe,Meppel,Nieuwveenselanden,1190701.0,127.0,16.0,60.0,Nieuwveenselanden,120
+202007.0,Enexis,Drenthe,Meppel,Verspreid gebied Meppel Oost,1191101.0,67.0,24.0,135.0,Verspreid gebied Meppel Oost,15
+202007.0,Enexis,Drenthe,Meppel,Griftebuurt,1191201.0,514.0,224.0,706.0,Griftebuurt,435
+202007.0,Enexis,Drenthe,Meppel,Vogelbuurt,1191202.0,395.0,160.0,557.0,Vogelbuurt,390
+202007.0,Enexis,Drenthe,Meppel,Danninge Erve,1191203.0,295.0,98.0,375.0,Danninge Erve,290
+202007.0,Enexis,Drenthe,Meppel,Tussenboerslanden,1191205.0,62.0,16.0,79.0,Tussenboerslanden,55
+202007.0,Enexis,Drenthe,Meppel,Kolderveen,1191206.0,101.0,10.0,48.0,Kolderveen,90
+202007.0,Enexis,Drenthe,Meppel,Nijeveense Bovenboer,1191208.0,50.0,12.0,116.0,Nijeveense Bovenboer,45
+202007.0,Enexis,Drenthe,Meppel,Verspreid gebied Nijeveen,1191209.0,103.0,17.0,117.0,Verspreid gebied Nijeveen,70
+202007.0,Enexis,Drenthe,Meppel,Rogat,1191300.0,80.0,12.0,96.0,Rogat,50
+202007.0,Enexis,Drenthe,Midden-Drenthe,Beilen,17310000.0,4248.0,1257.0,4277.0,Beilen,4215
+202007.0,Enexis,Drenthe,Midden-Drenthe,Lieving Makkum,17310001.0,65.0,14.0,55.0,Lieving Makkum,80
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Beilen,17310009.0,851.0,255.0,1864.0,Verspreide huizen Beilen,470
+202007.0,Enexis,Drenthe,Midden-Drenthe,Hijken,17310100.0,245.0,72.0,328.0,Hijken,270
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Hijken,17310109.0,208.0,30.0,201.0,Verspreide huizen Hijken,90
+202007.0,Enexis,Drenthe,Midden-Drenthe,Hooghalen,17310200.0,372.0,119.0,487.0,Hooghalen,370
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Hooghalen,17310209.0,287.0,50.0,540.0,Verspreide huizen Hooghalen,205
+202007.0,Enexis,Drenthe,Midden-Drenthe,Wijster,17310300.0,290.0,106.0,398.0,Wijster,300
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Wijster,17310309.0,192.0,47.0,499.0,Verspreide huizen Wijster,135
+202007.0,Enexis,Drenthe,Midden-Drenthe,Spier,17310400.0,54.0,19.0,69.0,Spier,70
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Spier,17310409.0,177.0,11.0,103.0,Verspreide huizen Spier,95
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Drijber,17310509.0,242.0,39.0,387.0,Verspreide huizen Drijber,165
+202007.0,Enexis,Drenthe,Midden-Drenthe,Smilde-Centrum,17310600.0,1718.0,690.0,2003.0,Smilde-Centrum,1650
+202007.0,Enexis,Drenthe,Midden-Drenthe,Smilde-Noord,17310601.0,113.0,36.0,245.0,Smilde-Noord,100
+202007.0,Enexis,Drenthe,Midden-Drenthe,Smilde-Zuid,17310602.0,103.0,48.0,206.0,Smilde-Zuid,140
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Smilde,17310609.0,195.0,58.0,331.0,Verspreide huizen Smilde,65
+202007.0,Enexis,Drenthe,Midden-Drenthe,Bovensmilde-Centrum,17310700.0,1248.0,520.0,1521.0,Bovensmilde-Centrum,1245
+202007.0,Enexis,Drenthe,Midden-Drenthe,Bovensmilde-Noord,17310701.0,74.0,20.0,120.0,Bovensmilde-Noord,65
+202007.0,Enexis,Drenthe,Midden-Drenthe,Bovensmilde-Zuid,17310702.0,101.0,24.0,136.0,Bovensmilde-Zuid,70
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Bovensmilde,17310709.0,139.0,36.0,220.0,Verspreide huizen Bovensmilde,85
+202007.0,Enexis,Drenthe,Midden-Drenthe,Hoogersmilde-Centrum,17310800.0,383.0,150.0,421.0,Hoogersmilde-Centrum,395
+202007.0,Enexis,Drenthe,Midden-Drenthe,Hoogersmilde-Noord,17310801.0,164.0,42.0,311.0,Hoogersmilde-Noord,155
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Hoogersmilde,17310809.0,342.0,69.0,475.0,Verspreide huizen Hoogersmilde,120
+202007.0,Enexis,Drenthe,Midden-Drenthe,Westerbork,17310900.0,2216.0,672.0,2406.0,Westerbork,2065
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Westerbork,17310909.0,218.0,35.0,184.0,Verspreide huizen Westerbork,70
+202007.0,Enexis,Drenthe,Midden-Drenthe,Elp,17311000.0,137.0,32.0,184.0,Elp,140
+202007.0,Enexis,Drenthe,Midden-Drenthe,Witteveen,17311100.0,136.0,35.0,166.0,Witteveen,170
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Witteveen,17311109.0,104.0,26.0,353.0,Verspreide huizen Witteveen,65
+202007.0,Enexis,Drenthe,Midden-Drenthe,Nieuw-Balinge,17311200.0,284.0,69.0,296.0,Nieuw-Balinge,335
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Nieuw-Balinge,17311209.0,142.0,48.0,298.0,Verspreide huizen Nieuw-Balinge,50
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Nieuweroord,17311309.0,54.0,18.0,112.0,Verspreide huizen Nieuweroord,40
+202007.0,Enexis,Drenthe,Midden-Drenthe,Zwiggelte,17311400.0,61.0,27.0,104.0,Zwiggelte,95
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Zwiggelte,17311409.0,282.0,70.0,346.0,Verspreide huizen Zwiggelte,90
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen Orvelte,17311509.0,95.0,12.0,59.0,Verspreide huizen Orvelte,60
+202007.0,Enexis,Drenthe,Midden-Drenthe,Balinge,17311601.0,17.0,10.0,40.0,Balinge,35
+202007.0,Enexis,Drenthe,Midden-Drenthe,Verspreide huizen de Broekstreek,17311609.0,197.0,44.0,411.0,Verspreide huizen de Broekstreek,65
+202007.0,Enexis,Drenthe,Noordenveld,Roden,16990000.0,3611.0,741.0,2689.0,Roden,3465
+202007.0,Enexis,Drenthe,Noordenveld,Roden West,16990010.0,3043.0,793.0,2823.0,Roden West,3015
+202007.0,Enexis,Drenthe,Noordenveld,Industrieterrein Roden,16990020.0,343.0,66.0,400.0,Industrieterrein Roden,140
+202007.0,Enexis,Drenthe,Noordenveld,Nieuw-Roden,16990030.0,489.0,128.0,474.0,Nieuw-Roden,545
+202007.0,Enexis,Drenthe,Noordenveld,Nietap,16990040.0,374.0,118.0,393.0,Nietap,405
+202007.0,Enexis,Drenthe,Noordenveld,Foxwolde,16990060.0,29.0,10.0,61.0,Foxwolde,65
+202007.0,Enexis,Drenthe,Noordenveld,Roderwolde,16990070.0,123.0,48.0,224.0,Roderwolde,125
+202007.0,Enexis,Drenthe,Noordenveld,Roderesch,16990100.0,75.0,24.0,81.0,Roderesch,110
+202007.0,Enexis,Drenthe,Noordenveld,Buitengebied Roden Noord,16990120.0,251.0,45.0,307.0,Buitengebied Roden Noord,70
+202007.0,Enexis,Drenthe,Noordenveld,Buitengebied Roden Zuid,16990130.0,510.0,104.0,578.0,Buitengebied Roden Zuid,260
+202007.0,Enexis,Drenthe,Noordenveld,Buitengebied Roden West,16990140.0,273.0,56.0,317.0,Buitengebied Roden West,125
+202007.0,Enexis,Drenthe,Noordenveld,Norg,16990300.0,1582.0,362.0,1287.0,Norg,1590
+202007.0,Enexis,Drenthe,Noordenveld,Een,16990310.0,205.0,61.0,279.0,Een,215
+202007.0,Enexis,Drenthe,Noordenveld,Langelo,16990320.0,51.0,16.0,86.0,Langelo,75
+202007.0,Enexis,Drenthe,Noordenveld,Westervelde,16990350.0,54.0,13.0,60.0,Westervelde,65
+202007.0,Enexis,Drenthe,Noordenveld,Veenhuizen,16990360.0,366.0,87.0,304.0,Veenhuizen,345
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Een-West,16990380.0,95.0,20.0,246.0,Verspreide huizen Een-West,85
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Norg,16990390.0,705.0,48.0,237.0,Verspreide huizen Norg,220
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Een,16990400.0,296.0,35.0,200.0,Verspreide huizen Een,135
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Langelo,16990410.0,57.0,13.0,112.0,Verspreide huizen Langelo,10
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Peest,16990420.0,59.0,12.0,183.0,Verspreide huizen Peest,15
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Zuidvelde,16990430.0,62.0,10.0,171.0,Verspreide huizen Zuidvelde,35
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Veenhuizen,16990450.0,162.0,25.0,254.0,Verspreide huizen Veenhuizen,100
+202007.0,Enexis,Drenthe,Noordenveld,Peize,16990600.0,1906.0,548.0,2085.0,Peize,1875
+202007.0,Enexis,Drenthe,Noordenveld,Altena,16990610.0,64.0,12.0,41.0,Altena,120
+202007.0,Enexis,Drenthe,Noordenveld,Verspreide huizen Peize Noord,16990630.0,500.0,137.0,663.0,Verspreide huizen Peize Noord,280
+202007.0,Enexis,Drenthe,Tynaarlo,Zuidlaren,17300000.0,1973.0,392.0,1515.0,Zuidlaren,1900
+202007.0,Enexis,Drenthe,Tynaarlo,Zuid-Es,17300001.0,1418.0,457.0,1534.0,Zuid-Es,1445
+202007.0,Enexis,Drenthe,Tynaarlo,De Groeve,17300100.0,157.0,37.0,199.0,De Groeve,145
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen De Groeve,17300109.0,59.0,26.0,173.0,Verspreide huizen De Groeve,35
+202007.0,Enexis,Drenthe,Tynaarlo,Zuidlaarderveen,17300200.0,88.0,30.0,138.0,Zuidlaarderveen,100
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Zuidlaarderveen,17300209.0,61.0,22.0,211.0,Verspreide huizen Zuidlaarderveen,25
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Midlaren,17300309.0,194.0,39.0,220.0,Verspreide huizen Midlaren,70
+202007.0,Enexis,Drenthe,Tynaarlo,Westlaren,17300400.0,602.0,149.0,514.0,Westlaren,600
+202007.0,Enexis,Drenthe,Tynaarlo,Westlaren Noord,17300401.0,183.0,40.0,216.0,Westlaren Noord,165
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Westlaren,17300402.0,50.0,13.0,67.0,Verspreide huizen Westlaren,35
+202007.0,Enexis,Drenthe,Tynaarlo,Westlaren-West,17300403.0,37.0,10.0,45.0,Westlaren-West,5
+202007.0,Enexis,Drenthe,Tynaarlo,Schuilingsoord,17300500.0,120.0,38.0,104.0,Schuilingsoord,130
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Schuilingsoord,17300509.0,77.0,21.0,129.0,Verspreide huizen Schuilingsoord,30
+202007.0,Enexis,Drenthe,Tynaarlo,Paterswolde,17300600.0,1712.0,323.0,1281.0,Paterswolde,1660
+202007.0,Enexis,Drenthe,Tynaarlo,Eelde,17300700.0,3109.0,815.0,2772.0,Eelde,2960
+202007.0,Enexis,Drenthe,Tynaarlo,Oosterbroek en vliegveld,17300701.0,75.0,14.0,230.0,Oosterbroek en vliegveld,65
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Eelde,17300709.0,128.0,27.0,209.0,Verspreide huizen Eelde,55
+202007.0,Enexis,Drenthe,Tynaarlo,Eelderwolde,17300800.0,111.0,40.0,181.0,Eelderwolde,120
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Eelderwolde,17300809.0,919.0,396.0,1764.0,Verspreide huizen Eelderwolde,710
+202007.0,Enexis,Drenthe,Tynaarlo,Vries,17300900.0,1771.0,577.0,2025.0,Vries,1755
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Vries,17300909.0,105.0,22.0,112.0,Verspreide huizen Vries,25
+202007.0,Enexis,Drenthe,Tynaarlo,Donderen,17301000.0,135.0,37.0,204.0,Donderen,155
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Donderen,17301009.0,67.0,20.0,264.0,Verspreide huizen Donderen,25
+202007.0,Enexis,Drenthe,Tynaarlo,Bunne,17301100.0,45.0,11.0,73.0,Bunne,55
+202007.0,Enexis,Drenthe,Tynaarlo,Winde,17301101.0,24.0,11.0,50.0,Winde,30
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Bunne,17301109.0,76.0,20.0,453.0,Verspreide huizen Bunne,25
+202007.0,Enexis,Drenthe,Tynaarlo,Yde,17301200.0,340.0,73.0,297.0,Yde,345
+202007.0,Enexis,Drenthe,Tynaarlo,De Punt,17301201.0,90.0,16.0,74.0,De Punt,80
+202007.0,Enexis,Drenthe,Tynaarlo,Tynaarlo,17301300.0,692.0,165.0,639.0,Tynaarlo,650
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Tynaarlo,17301309.0,222.0,40.0,326.0,Verspreide huizen Tynaarlo,85
+202007.0,Enexis,Drenthe,Tynaarlo,Zeegse,17301400.0,76.0,22.0,85.0,Zeegse,90
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Zeegse,17301407.0,172.0,18.0,125.0,Verspreide huizen Zeegse,75
+202007.0,Enexis,Drenthe,Tynaarlo,Zeijen,17301500.0,271.0,68.0,262.0,Zeijen,265
+202007.0,Enexis,Drenthe,Tynaarlo,Verspreide huizen Zeijen,17301509.0,51.0,12.0,109.0,Verspreide huizen Zeijen,30
+202007.0,Enexis,Drenthe,Westerveld,Diever,17010000.0,1093.0,442.0,1433.0,Diever,1035
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Diever,17010009.0,534.0,73.0,436.0,Verspreide huizen Diever,195
+202007.0,Enexis,Drenthe,Westerveld,Wapse,17010100.0,194.0,65.0,381.0,Wapse,200
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Wapse,17010109.0,133.0,20.0,177.0,Verspreide huizen Wapse,60
+202007.0,Enexis,Drenthe,Westerveld,Zorgvlied,17010200.0,85.0,30.0,103.0,Zorgvlied,70
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Zorgvlied,17010209.0,457.0,27.0,122.0,Verspreide huizen Zorgvlied,150
+202007.0,Enexis,Drenthe,Westerveld,Dwingelo,17010300.0,1095.0,387.0,1255.0,Dwingelo,1100
+202007.0,Enexis,Drenthe,Westerveld,Dwingelderveld,17010303.0,113.0,19.0,100.0,Dwingelderveld,20
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Dwingeloo,17010309.0,188.0,52.0,426.0,Verspreide huizen Dwingeloo,55
+202007.0,Enexis,Drenthe,Westerveld,Lhee,17010400.0,54.0,10.0,44.0,Lhee,95
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Lhee,17010409.0,169.0,41.0,230.0,Verspreide huizen Lhee,55
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Eemster,17010509.0,172.0,37.0,201.0,Verspreide huizen Eemster,80
+202007.0,Enexis,Drenthe,Westerveld,Geeuwenbrug,17010600.0,67.0,20.0,87.0,Geeuwenbrug,100
+202007.0,Enexis,Drenthe,Westerveld,Leggeloo,17010601.0,30.0,10.0,46.0,Leggeloo,50
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Geeuwenbrug,17010609.0,134.0,29.0,139.0,Verspreide huizen Geeuwenbrug,40
+202007.0,Enexis,Drenthe,Westerveld,Dieverbrug,17010700.0,146.0,38.0,344.0,Dieverbrug,125
+202007.0,Enexis,Drenthe,Westerveld,Havelte,17010800.0,1488.0,556.0,1891.0,Havelte,1465
+202007.0,Enexis,Drenthe,Westerveld,Darp,17010801.0,259.0,118.0,346.0,Darp,255
+202007.0,Enexis,Drenthe,Westerveld,Havelterberg,17010802.0,85.0,17.0,64.0,Havelterberg,75
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Havelte,17010809.0,400.0,44.0,619.0,Verspreide huizen Havelte,265
+202007.0,Enexis,Drenthe,Westerveld,Uffelte,17010900.0,522.0,163.0,664.0,Uffelte,545
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Uffelte,17010909.0,148.0,31.0,266.0,Verspreide huizen Uffelte,55
+202007.0,Enexis,Drenthe,Westerveld,Wapserveen midden,17011000.0,241.0,60.0,26202.0,Wapserveen midden,230
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Wapserveen,17011009.0,88.0,18.0,272.0,Verspreide huizen Wapserveen,35
+202007.0,Enexis,Drenthe,Westerveld,Vledder,17011100.0,902.0,345.0,1126.0,Vledder,905
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Vledder,17011109.0,106.0,14.0,143.0,Verspreide huizen Vledder,55
+202007.0,Enexis,Drenthe,Westerveld,Frederiksoord,17011200.0,58.0,28.0,68.0,Frederiksoord,70
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Frederiksoord,17011209.0,115.0,42.0,243.0,Verspreide huizen Frederiksoord,65
+202007.0,Enexis,Drenthe,Westerveld,Nijensleek,17011300.0,129.0,34.0,229.0,Nijensleek,170
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Nijensleek,17011309.0,89.0,15.0,121.0,Verspreide huizen Nijensleek,40
+202007.0,Enexis,Drenthe,Westerveld,Vledderveen,17011400.0,72.0,26.0,107.0,Vledderveen,100
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Vledderveen,17011409.0,117.0,35.0,266.0,Verspreide huizen Vledderveen,55
+202007.0,Enexis,Drenthe,Westerveld,Wilhelminaoord,17011500.0,367.0,141.0,402.0,Wilhelminaoord,345
+202007.0,Enexis,Drenthe,Westerveld,Verspreide huizen Wilhelminaoord,17011509.0,81.0,25.0,185.0,Verspreide huizen Wilhelminaoord,55

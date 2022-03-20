@@ -1,0 +1,17 @@
+1. inladen
+2. werkt het --> databestanden zoeken
+3. data combineren
+	--> buurt uit kerncijfers wijken en buurten koppelen aan buurt in buurt opgewekt vermogen uit enexis data van 2019	
+4. model maken wat op basis van demografische gegevens het opgesteld vermogen voorspelt.
+	--> in eerste instantie op basis van het verbruik van een huishouden
+	X(GemiddeldAardgasverbruikTotaal_55)
+	Y(Opgesteld vermogen)
+
+
+todo overig:
+- alle data inladen als dat niet is gedaan
+
+!!
+- omdat de gemiddelde woningwaarde van 2020 niet bekend is in de kerncijfers wijken en buurten, is de decentrale
+  opwek 2020 vergeleken met de kerncijfers van 2019. Dit moet uiteraard gecorrigeerd worden.
+  Idee is om eerst naar een model toe te werken en dan de aanpassingen te doen aan de data die nodig zijn.

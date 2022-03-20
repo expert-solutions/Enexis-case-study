@@ -1,0 +1,664 @@
+WijkenEnBuurten,Codering_3,HuishoudensTotaal_28
+Annen,16800000,1490
+Verspreide huizen Annen,16800009,65
+Eext,16800100,535
+Verspreide huizen Eext,16800109,90
+Anloo,16800200,145
+Verspreide huizen Anloo,16800209,70
+Gasteren,16800300,170
+Verspreide huizen Gasteren,16800309,5
+Anderen,16800400,90
+Verspreide huizen Anderen,16800409,10
+Schipborg,16800500,255
+Verspreide huizen Schipborg,16800509,25
+Eexterveen,16800600,175
+Verspreide huizen Eexterveen,16800609,5
+Spijkerboor,16800700,60
+Verspreide huizen Spijkerboor,16800709,1
+Nieuw-Annerveen,16800800,40
+Verspreide huizen Nieuw-Annerveen,16800809,1
+Oud-Annerveen,16800900,50
+Verspreide huizen Oud-Annerveen,16800909,1
+Annerveenschekanaal,16801100,170
+Verspreide huizen Annerveenschekanaal,16801109,1
+Eexterveenschekanaal,16801200,115
+Verspreide huizen Eexterveenschekanaal,16801209,10
+Eexterzandvoort,16801300,45
+Verspreide huizen Eexterzandvoort,16801309,10
+Gasselte,16801400,695
+Kostvlies,16801401,55
+Verspreide huizen Gasselte,16801409,140
+Gasselternijveen,16801500,780
+Gasselterboerveen,16801501,15
+Verspreide huizen Gasselternijveen,16801509,1
+Gasselternijveenschemond,16801600,280
+Gasselterboerveenschemond,16801601,10
+Verspr.h. Gasselternijveenschemond,16801609,1
+Gieten,16801700,2180
+Verspreide huizen Gieten,16801709,65
+Gieterveen,16801800,285
+Bonnerveen,16801801,40
+Nieuwediep,16801802,100
+Verspreide huizen Gieterveen,16801809,95
+Rolde,16801900,1705
+Ballo,16801901,65
+Nijlande,16801902,25
+Deurze,16801903,30
+Verspreide huizen Nooitgedacht,16801908,125
+Verspreide huizen Rolde,16801909,55
+Grolloo,16802000,260
+Schoonloo,16802001,85
+Verspreide huizen Papenvoort,16802008,30
+Verspreide huizen Grolloo,16802009,105
+Ekehaar,16802100,105
+Amen,16802101,35
+Verspreide huizen Ekehaar,16802109,45
+Brinkkwartier,1060000,205
+Erfgoedkwartier,1060001,15
+Overcingel,1060002,285
+Oranjebuurt,1060003,395
+Galgenveld,1060004,480
+Koopmanskwartier,1060005,920
+Cultuureelkwartier,1060006,230
+Oude Gasfabriek,1060007,105
+De Hertenkamp,1060008,315
+Asserbos,1060009,35
+De Esch,1060010,345
+Bomenbuurt,1060011,290
+Zuiderpark,1060012,110
+De Lariks Oost,1060100,795
+Landgoed Lariks,1060101,425
+De Lariks West,1060102,795
+Luchiesland Zuid,1060103,390
+Zuid Molukse Buurt,1060104,235
+Luchiesland Noord,1060105,405
+Oude Molenbuurt,1060200,990
+Dichtershof,1060201,380
+Veningerland,1060202,970
+Zwarte Water,1060203,630
+Componistenbuurt West,1060204,280
+Componistenbuurt Oost,1060205,1030
+Dijkveld,1060300,25
+Vreebergen,1060301,60
+Houtlaan,1060302,130
+Amelterhout,1060303,125
+Schildersbuurt,1060304,555
+Vredeveld Noord,1060305,990
+Sluisdennen,1060306,140
+Vredeveld Zuid,1060307,1175
+De Dorpen,1060308,625
+GGZ-terrein,1060309,1
+Park Diepstroeten,1060310,245
+Pittelo Zuid,1060400,160
+Pittelo Midden,1060401,785
+Pittelo Noord,1060402,650
+Recreatiepark Pittelo,1060403,10
+De Maten,1060500,5
+De Boskamp,1060501,1
+Baggelhuizen Zuid,1060502,485
+Baggelhuizen Midden,1060503,785
+Baggelhuizen Noord,1060504,325
+Lauwers,1060505,1
+Huize Nassau,1060506,10
+Kazerneterrein,1060507,1
+Westerpark,1060508,230
+Sportpark Stadsbroek,1060509,1
+De Venen/De Wallen,1060600,440
+De Velden/De Stukken,1060601,750
+De Landen/De Akkers,1060602,1065
+De Kampen/De Essen,1060603,685
+Peelerpark,1060604,15
+Messchenveld,1060700,40
+De Messchen,1060701,350
+De Hamels,1060702,220
+De Kleuven,1060703,470
+De Dreven,1060704,465
+De Breeën,1060705,365
+De Hoven,1060706,355
+De Heugten,1060707,575
+De Beemden,1060708,350
+De Hullen,1060709,395
+De Stoepen,1060710,820
+De Goorns,1060711,325
+Bedrijventerrein Marsdijk West,1060712,70
+Bedrijventerrein West,1060713,5
+Bedrijventerrein Oost,1060714,20
+Bedrijventerrein Marsdijk Oost,1060715,75
+Havenkanaal Noordzijde,1060716,5
+Havenkanaal Zuidzijde,1060717,65
+Kloosterveste,1060800,375
+Kloostertuinen,1060801,325
+Kloosterhaven,1060802,130
+Kloosterlanen,1060803,275
+Kloosterhoven,1060804,490
+Kloosterstede,1060805,375
+Kloostergaarde,1060806,160
+Kloosterhage,1060807,290
+Kloosterkade,1060808,175
+Sterrenbeeldenbuurt,1060809,215
+Planetenbuurt,1060810,350
+De Zoom,1060811,5
+De Hoogspanning,1060812,10
+Groene Dijk,1060813,20
+Recreatiepark Zeijerveen,1060814,5
+Kloosterhout,1060815,330
+Kloosterbos,1060816,400
+Uitbreidingsgebied Kloosterveen,1060817,25
+Loon,1069900,110
+Verspreide huizen Loon,1069901,5
+Het grote Veld,1069902,10
+Verspreide huizen Ubbena Oost,1069903,20
+Ubbena,1069904,40
+Verspreide huizen Ubbena West,1069905,5
+Rhee,1069906,15
+Verspreide huizen Ter Aard,1069907,10
+Ter Aard,1069908,30
+Zeijerveld,1069909,35
+Bos en Golf,1069910,10
+Verspreide huizen Witten,1069911,55
+Witten,1069912,25
+Graswijkbuurt,1069913,35
+Verspreide huizen Anreep,1069914,5
+Anreep/Schieven,1069915,15
+Verspreide huizen Schieven,1069916,15
+Natuurgebied Amelte,1069917,1
+Borger,16810000,2180
+Westdorp,16810001,30
+Verspreide huizen Ellertshaar,16810007,10
+Verspreide huizen Westdorp,16810008,15
+Verspreide huizen Borger,16810009,45
+Buinen,16810100,295
+Verspreide huizen Buinen,16810109,30
+Bronneger,16810200,45
+Verspreide huizen Bronneger,16810209,1
+Drouwen,16810300,185
+Verspreide huizen Drouwen,16810309,45
+Verspreide huizen Bronnegerveen,16810409,30
+Drouwenerveen,16810500,95
+Verspreide huizen Drouwenerveen,16810509,5
+Drouwenermond,16810600,210
+Verspreide huizen Drouwenermond,16810609,10
+Nieuw-Buinen,16810700,2060
+Verspreide huizen Nieuw-Buinen,16810709,30
+Buinerveen,16810800,165
+Verspreide huizen Buinerveen,16810809,1
+Ees,16810900,140
+Eesergroen,16810901,35
+Verspreide huizen Eeserveen,16810907,60
+Verspreide huizen Eesergroen,16810908,35
+Verspreide huizen Ees,16810909,10
+Odoorn,16811000,805
+Verspreide huizen Odoorn,16811009,10
+Exloo,16811100,705
+Verspreide huizen Exloo,16811109,60
+Valthe,16811200,455
+Verspreide huizen Valthe,16811209,65
+Klijndijk,16811300,310
+Verspreide huizen Klijndijk,16811309,30
+Odoornerveen,16811400,130
+Verspreide huizen Odoornerveen,16811409,20
+Tweede Exloërmond,16811500,985
+Eerste Exloërmond,16811501,145
+Exloërveen,16811502,25
+Verspreide huizen Tweede Exloërmond,16811509,15
+Valthermond,16811600,1440
+Zandberg,16811601,25
+Tweede Valthermond,16811602,20
+Verspreide huizen Valthermond,16811609,30
+Coevorden-Centrum,1091000,1340
+Lootuinen,1091001,580
+Poppenhare,1091002,580
+Binnenvree Buitenvree Pikveld,1091003,1325
+De Heege,1091004,880
+Klooster,1091006,55
+Ballast,1091007,685
+De Loo,1091008,540
+Verspreide huizen Coevorden,1091009,25
+Holwert,1091010,10
+Hare,1091011,45
+Leeuwerikenveld,1091012,25
+De Heege en De Mars,1091013,1
+Klinkenvlier,1091014,60
+Ossehaar,1091015,295
+Steenwijksmoer,1091116,250
+Verspreide huizen Steenwijksmoer,1091117,120
+Nieuwe Krim,1091218,60
+Verspreide huizen Nieuwe Krim,1091219,1
+Verspreide huizen Weijerswold,1091320,30
+Verspreide huizen Vlieghuis en Padhuis,1091421,45
+Dalen,1092022,1465
+Verspreide huizen Dalen,1092023,150
+Wachtum,1092024,110
+Verspreide huizen Wachtum,1092025,35
+Dalerpeel,1092026,245
+Verspreide huizen Dalerpeel,1092027,95
+Dalerveen,1092028,120
+Verspreide huizen Dalerveen,1092029,20
+Stieltjeskanaal,1092030,65
+Verspreide huizen Stieltjeskanaal,1092031,30
+Oosterhesselen,1093032,800
+Verspreide huizen Oosterhesselen,1093033,50
+Gees,1093034,225
+Verspreide huizen Gees,1093035,30
+Zwinderen,1093036,95
+Verspreide huizen Zwinderen,1093037,50
+Geesbrug,1093038,290
+Verspreide huizen Geesbrug,1093039,225
+Verspreide huizen Nieuwlande,1093068,25
+Sleen,1094040,960
+Diphoorn,1094041,30
+Verspreide huizen Sleen,1094042,20
+Noord-Sleen,1094043,195
+'t Haantje,1094044,90
+Verspreide huizen 't Haantje,1094045,10
+Verspreide huizen Noord-Sleen,1094046,30
+Schoonoord,1094047,910
+De Kiel,1094048,120
+Verspreide huizen De Kiel,1094049,45
+Verspreide huizen Kibbelveen,1094050,10
+Verspreide huizen Schoonoord,1094051,60
+Verspreide huizen Veenoord,1094052,20
+Erm,1094053,160
+Achterste Erm,1094054,30
+Holsloot,1094055,45
+Verspreide huizen Holsloot,1094056,35
+Verspreide huizen Elm,1094057,210
+Zweeloo,1095058,145
+Aalden,1095059,750
+Verspreide huizen Zweeloo,1095060,15
+Meppen,1095061,135
+Verspreide huizen Meppen,1095062,35
+Wezup,1095063,70
+Wezuperbrug,1095064,75
+Benneveld,1095065,60
+Verspreide huizen Benneveld,1095066,10
+Verspreide huizen Wezuperbrug,1095067,20
+Derde Kruisdiep,1140100,230
+Eerste Kruisdiep,1140101,845
+Tramwijk,1140102,90
+Achterdiep,1140103,95
+Weerdingerkanaal,1140104,85
+Siepelveen,1140106,35
+Verspreide huizen Nieuw-Weerdinge,1140109,45
+Roswinkel-Centrum,1140200,150
+Oude Schuttingskanaal,1140206,40
+Roswinkelerstraat,1140208,80
+Verspreide huizen Roswinkel,1140209,75
+Emmer-Compascuum-Centrum,1140300,2180
+Emmer-Erfscheidenveen,1140301,730
+Foxel,1140302,165
+Oosterdiep,1140303,180
+Hoofdkanaal,1140304,25
+Verspreide huizen Emmer-Compascuum,1140309,75
+Barger-Compascuum-Centrum,1140400,580
+Scholtenskanaal,1140401,75
+Verlengde Oosterdiep,1140402,95
+Limietweg,1140408,55
+Verspreide huizen Barger-Compascuum,1140409,15
+Nieuw-Dordrecht-Centrum,1140500,570
+Oranjedorp,1140502,165
+Vastenow,1140503,75
+Herenstreek,1140504,35
+Verspreide huizen Nieuw-Dordrecht,1140509,1
+Nieuw-Amsterdam-Centrum,1140600,1835
+Barger-Erfscheidenveen,1140601,50
+Langs de Vaart,1140608,90
+Verspreide huizen Nieuw-Amsterdam,1140609,60
+Erica-Centrum,1140700,1645
+Amsterdamscheveld,1140701,75
+Beekweg,1140702,85
+Verlengde Vaart,1140707,25
+Ericasestraat,1140708,75
+Verspreide huizen Erica,1140709,95
+Klazienaveen-Noord,1140800,2055
+Klazienaveen-Zuid,1140801,2730
+Barger-Oosterveen,1140802,130
+Kloostermanswijk,1140803,95
+Dordsedijk,1140804,35
+Derksweg,1140806,50
+Tuinbouwcentrum Klazienaveen,1140807,75
+Verspreide huizen Klazienaveen,1140809,75
+Zwartemeer-Centrum,1140900,1150
+Kamerlingswijk,1140901,75
+Verspreide huizen Zwartemeer,1140909,20
+Schoonebeek,1141000,1655
+Oosterse Bos en Middendorp,1141001,75
+Westerse Bos,1141002,50
+Zandpol,1141003,200
+Industrieterrein De Vierslagen,1141004,25
+Verspreide huizen Schoonebeek,1141009,75
+Veenoord,1141300,995
+Ermerveen,1141308,5
+Verspreide huizen Veenoord,1141309,5
+Nieuw-Schoonebeek,1142100,325
+Westelijk Nieuw-Schoonebeek,1142101,80
+Oostelijk Nieuw-Schoonebeek,1142102,105
+Verspreide huizen Nieuw-Schoonebeek,1142109,15
+Weiteveen,1143200,575
+Westelijk en oostelijk Weiteveen,1143201,50
+Verspreide huizen Weiteveen,1143209,15
+Emmen-Centrum,1144000,2470
+Emmen-omgeving Oude Roswinkelerweg,1144100,665
+Emmen over 't spoor,1144101,670
+Emmermeer,1144200,3060
+Angelslo,1144300,3865
+Emmerhout,1144400,3660
+Emmerschans,1144500,475
+Bargeres,1144600,4365
+Rietlanden,1144700,3925
+Parc Sandur,1144800,850
+Delftlanden,1144900,285
+Barger-Oosterveld,1145000,1270
+Weerdinge,1145100,230
+Westenesch,1145101,65
+Verspreide huizen Emmen,1145109,355
+Noordbarge,1145200,410
+Zuidbarge,1145201,150
+Industrieterrein Bargermeer,1145300,20
+Bedrijvenpark A37,1145301,1
+Centrum,1185000,830
+Noord,1185001,685
+Bentinckspark,1185002,210
+Krakeel,1185003,2180
+Wolfsbos,1185004,1975
+Zuid,1185005,3140
+Venesluis,1185006,970
+West,1185007,895
+Oost,1185008,1265
+Steenbergerweiden,1185100,480
+Kinholt,1185101,390
+Grittenhof,1185102,5
+Schoonvelde-West,1185103,695
+Schoonvelde-Oost,1185104,680
+Schutlanden-Oost,1185105,435
+Schutlanden-West,1185106,565
+Kattouw,1185107,510
+Trasselt,1185108,655
+Erflanden,1185109,1150
+Fluitenberg kern,1185200,145
+Verspreide huizen Fluitenberg,1185201,35
+Elim Kern,1185300,685
+Verspreide huizen Elim-Noord,1185301,65
+Verspreide huizen Elim-Zuid,1185302,225
+Hollandscheveld kern,1185400,1445
+Verspreide huizen Hollandscheveld-West,1185401,105
+Verspreide huizen Hollandscheveld-Oost,1185402,265
+Noordscheschut kern,1185500,620
+Verspreide huizen Noordscheschut,1185501,195
+Nieuwlande kern,1185600,525
+Verspreide huizen Nieuwlande,1185601,25
+Nieuweroord kern,1185700,200
+Verspreide huizen Nieuweroord,1185701,155
+Tiendeveen kern,1185800,150
+Verspreide huizen Tiendeveen,1185801,105
+Stuifzand kern,1185900,125
+Verspreide huizen Stuifzand,1185901,120
+Pesse kern,1186000,475
+Verspreide huizen Pesse-Oost,1186001,185
+Verspreide huizen Pesse-West,1186002,30
+Verspreide huizen Pesse-Zuid,1186003,95
+Zuideropgaande Nieuw Moscou,1186100,220
+Industriegebied Toldijk,1186201,10
+Industriegebied Noord A,1186202,40
+Industriegebied Noord B,1186203,50
+Industriegebied Buitenvaart,1186204,90
+Verspreide huizen Alteveer,1186205,60
+Verspreide huizen Nijstad,1186206,20
+Historisch Centrum,1190000,1325
+Indische buurt,1190001,635
+Koninginnebuurt,1190002,1340
+Galgenkamp,1190100,195
+Oude Vaart,1190101,15
+Heinsiusbuurt,1190200,665
+Staatsliedenbuurt,1190201,740
+Zeeheldenbuurt,1190202,725
+Hesselingen,1190300,805
+Koeberg,1190301,925
+Reestlanden,1190302,185
+Schildersbuurt,1190303,1005
+Plantenbuurt,1190400,630
+Scheepsbuurt,1190401,510
+Bloemenbuurt,1190500,365
+"Onderwijs-, sportpark",1190501,1
+Veldenbuurt,1190600,940
+Vlinderbuurt,1190601,575
+Vogelbuurt,1190602,380
+Verzetsbuurt,1190603,1065
+Drukkersbuurt,1190700,225
+Nieuwveenselanden,1190701,120
+Blankenstein,1190800,25
+Industrieterrein Noord I,1190900,5
+Industrieterrein Noord II,1190901,20
+Industrie Oevers A,1191000,1
+Industrie Oevers B,1191001,5
+Industrie Oevers C,1191002,25
+Industrie Oevers D,1191003,5
+Industrie Oevers E,1191004,15
+Verspreid gebied Meppel Noord,1191100,25
+Verspreid gebied Meppel Oost,1191101,15
+Verspreid gebied Meppel Zuid,1191102,5
+Nijeveen Oost,1191200,55
+Griftebuurt,1191201,435
+Vogelbuurt,1191202,390
+Danninge Erve,1191203,290
+Spijkerserve,1191204,25
+Tussenboerslanden,1191205,55
+Kolderveen,1191206,90
+Kolderveense Bovenboer,1191207,45
+Nijeveense Bovenboer,1191208,45
+Verspreid gebied Nijeveen,1191209,70
+Rogat,1191300,50
+Broekhuizen,1191301,40
+De Schiphorst,1191302,30
+Beilen,17310000,4215
+Lieving Makkum,17310001,80
+Holthe,17310002,50
+Brunsting,17310003,25
+Verspreide huizen Beilen,17310009,470
+Hijken,17310100,270
+Oranje,17310101,45
+Verspreide huizen Hijken,17310109,90
+Hooghalen,17310200,370
+Laaghalen,17310201,40
+Verspreide huizen Hooghalen,17310209,205
+Wijster,17310300,300
+Verspreide huizen Wijster,17310309,135
+Spier,17310400,70
+Verspreide huizen Spier,17310409,95
+Drijber,17310500,40
+Verspreide huizen Drijber,17310509,165
+Smilde-Centrum,17310600,1650
+Smilde-Noord,17310601,100
+Smilde-Zuid,17310602,140
+Verspreide huizen Smilde,17310609,65
+Bovensmilde-Centrum,17310700,1245
+Bovensmilde-Noord,17310701,65
+Bovensmilde-Zuid,17310702,70
+Verspreide huizen Bovensmilde,17310709,85
+Hoogersmilde-Centrum,17310800,395
+Hoogersmilde-Noord,17310801,155
+Hoogersmilde-Zuid,17310802,45
+Verspreide huizen Hoogersmilde,17310809,120
+Westerbork,17310900,2065
+Eursinge,17310901,20
+Verspreide huizen Westerbork,17310909,70
+Elp,17311000,140
+Zuidveld,17311001,30
+Verspreide huizen Elp,17311009,15
+Witteveen,17311100,170
+Verspreide huizen Witteveen,17311109,65
+Nieuw-Balinge,17311200,335
+Verspreide huizen Nieuw-Balinge,17311209,50
+Verspreide huizen Nieuweroord,17311309,40
+Zwiggelte,17311400,95
+Verspreide huizen Zwiggelte,17311409,90
+Orvelte,17311500,40
+Verspreide huizen Orvelte,17311509,60
+Garminge,17311600,35
+Balinge,17311601,35
+Mantinge,17311602,75
+Verspreide huizen de Broekstreek,17311609,65
+Roden,16990000,3465
+Roden West,16990010,3015
+Industrieterrein Roden,16990020,140
+Nieuw-Roden,16990030,545
+Nietap,16990040,405
+Leutingewolde,16990050,65
+Foxwolde,16990060,65
+Roderwolde,16990070,125
+Sandebuur,16990080,10
+Lieveren,16990090,50
+Roderesch,16990100,110
+Steenbergen,16990110,30
+Buitengebied Roden Noord,16990120,70
+Buitengebied Roden Zuid,16990130,260
+Buitengebied Roden West,16990140,125
+Norg,16990300,1590
+Een,16990310,215
+Langelo,16990320,75
+Peest,16990330,30
+Zuidvelde,16990340,30
+Westervelde,16990350,65
+Veenhuizen,16990360,345
+Verspreide huizen Huis ter Heide,16990370,55
+Verspreide huizen Een-West,16990380,85
+Verspreide huizen Norg,16990390,220
+Verspreide huizen Een,16990400,135
+Verspreide huizen Langelo,16990410,10
+Verspreide huizen Peest,16990420,15
+Verspreide huizen Zuidvelde,16990430,35
+Verspreide huizen Westervelde,16990440,1
+Verspreide huizen Veenhuizen,16990450,100
+Peize,16990600,1875
+Altena,16990610,120
+Peizermade,16990620,45
+Verspreide huizen Peize Noord,16990630,280
+Zuidlaren,17300000,1900
+Zuid-Es,17300001,1445
+Verspreide huizen Zuidlaren,17300009,1
+De Groeve,17300100,145
+Verspreide huizen De Groeve,17300109,35
+Zuidlaarderveen,17300200,100
+Verspreide huizen Zuidlaarderveen,17300209,25
+Midlaren,17300300,75
+Verspreide huizen Midlaren,17300309,70
+Westlaren,17300400,600
+Westlaren Noord,17300401,165
+Verspreide huizen Westlaren,17300402,35
+Westlaren-West,17300403,5
+Schuilingsoord,17300500,130
+Verspreide huizen Schuilingsoord,17300509,30
+Paterswolde,17300600,1660
+Verspreide huizen Paterswolde,17300609,5
+Eelde,17300700,2960
+Oosterbroek en vliegveld,17300701,65
+Verspreide huizen Eelde,17300709,55
+Eelderwolde,17300800,120
+Verspreide huizen Eelderwolde,17300809,710
+Vries,17300900,1755
+Verspreide huizen Vries,17300909,25
+Donderen,17301000,155
+Verspreide huizen Donderen,17301009,25
+Bunne,17301100,55
+Winde,17301101,30
+Verspreide huizen Winde,17301108,5
+Verspreide huizen Bunne,17301109,25
+Yde,17301200,345
+De Punt,17301201,80
+Verspreide huizen De Punt,17301208,10
+Verspreide huizen Yde,17301209,15
+Tynaarlo,17301300,650
+Verspreide huizen Tynaarlo,17301309,85
+Zeegse,17301400,90
+Oudemolen,17301401,20
+Taarlo,17301402,25
+Verspreide huizen Zeegse,17301407,75
+Verspreide huizen Oudemolen,17301408,5
+Verspreide huizen Taarlo,17301409,10
+Zeijen,17301500,265
+Verspreide huizen Zeijen,17301509,30
+Diever,17010000,1035
+Wittelte,17010003,55
+Verspreide huizen Diever,17010009,195
+Wapse,17010100,200
+Verspreide huizen Wapse,17010109,60
+Zorgvlied,17010200,70
+Verspreide huizen Zorgvlied,17010209,150
+Dwingelo,17010300,1100
+Westeinde,17010301,45
+Stroovledder,17010302,15
+Dwingelderveld,17010303,20
+Verspreide huizen Dwingeloo,17010309,55
+Lhee,17010400,95
+Lheebroek,17010401,40
+Verspreide huizen Lhee,17010409,55
+Eemster,17010500,60
+Verspreide huizen Eemster,17010509,80
+Geeuwenbrug,17010600,100
+Leggeloo,17010601,50
+Verspreide huizen Geeuwenbrug,17010609,40
+Dieverbrug,17010700,125
+Verspreide huizen Dieverbrug,17010709,10
+Havelte,17010800,1465
+Darp,17010801,255
+Havelterberg,17010802,75
+Verspreide huizen Havelte,17010809,265
+Uffelte,17010900,545
+Verspreide huizen Uffelte,17010909,55
+Wapserveen midden,17011000,230
+Wapserveen-West,17011001,25
+Wapserveen-Oost,17011002,45
+Verspreide huizen Wapserveen,17011009,35
+Vledder,17011100,905
+Verspreide huizen Vledder,17011109,55
+Frederiksoord,17011200,70
+Verspreide huizen Frederiksoord,17011209,65
+Nijensleek,17011300,170
+Verspreide huizen Nijensleek,17011309,40
+Vledderveen,17011400,100
+Verspreide huizen Vledderveen,17011409,55
+Wilhelminaoord,17011500,345
+Verspreide huizen Wilhelminaoord,17011509,55
+Doldersum,17011600,15
+Verspreide huizen Doldersum,17011609,35
+Verspreide huizen Boschoord,17011709,10
+Zuidwolde kern,16900000,2305
+Verspreide huizen Zuidwolde,16900009,365
+Alteveer,16900100,215
+Verspreide huizen Alteveer,16900109,100
+Kerkenveld,16900200,195
+Verspreide huizen Kerkenveld,16900209,120
+Drogteropslagen,16900300,100
+Verspreide huizen Drogteropslagen,16900309,80
+Linde,16900400,45
+Verspreide huizen Linde,16900409,185
+Fort,16900500,90
+Verspreide huizen Fort,16900509,165
+Veeningen,16900600,130
+Verspreide huizen Veeningen,16900609,130
+Echten,16900700,75
+Verspreide huizen Echten,16900709,65
+Ruinen,16900800,1205
+Oldenhave,16900801,25
+Ruinerweide,16900802,10
+Leeuwte,16900803,30
+Hees,16900804,25
+Verspreide huizen Ruinen,16900809,280
+Eursinge en Pesse,16900900,20
+Verspreide huizen Pesse,16900909,15
+Ansen,16901000,110
+Verspreide huizen Ansen,16901009,20
+Ruinerwold,16901100,1080
+Haakswold,16901101,35
+Oosteinde,16901102,110
+Berghuizen,16901103,55
+Weerwille,16901104,30
+Oosteinde-Buiten,16901105,195
+Ruinerwold-Buiten,16901109,105
+Koekange,16901200,475
+Koekange Noord,16901201,100
+Koekange Zuid,16901202,60
+Koekangerveld,16901203,65
+Verspreide huizen Koekange,16901209,340
+De Wijk,16901300,1190
+Verspreide huizen De Wijk,16901309,110
