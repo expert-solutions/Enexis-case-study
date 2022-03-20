@@ -10,6 +10,8 @@
 
 todo overig:
 - alle data inladen als dat niet is gedaan
+- normaliseren voor het modelleren
+-
 
 !!
 - omdat de gemiddelde woningwaarde van 2020 niet bekend is in de kerncijfers wijken en buurten, is de decentrale
