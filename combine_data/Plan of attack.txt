@@ -9,11 +9,5 @@
 
 
 todo overig:
-- alle data inladen als dat niet is gedaan
+v alle data inladen als dat niet is gedaan
 - normaliseren voor het modelleren
--
-
-!!
-- omdat de gemiddelde woningwaarde van 2020 niet bekend is in de kerncijfers wijken en buurten, is de decentrale
-  opwek 2020 vergeleken met de kerncijfers van 2019. Dit moet uiteraard gecorrigeerd worden.
-  Idee is om eerst naar een model toe te werken en dan de aanpassingen te doen aan de data die nodig zijn.
